@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><company><department depId="3" name="Testing"><employee><lastName>Vladimir</lastName><firstName>Primac</firstName><position>MegaTester</position><birthDate>01.01.1945</birthDate><skills><skill>level upping</skill><skill>standup skills</skill><skill>learning testing</skill></skills></employee></department></company>

@@ -1,0 +1,85 @@
+{
+  "company": {
+    "department": [
+      {
+        "name": "Development",
+        "depId": "1",
+        "employee": [
+          {
+            "empId": "001",
+            "lastName": "Ivan",
+            "firstName": "Ivanovski ",
+            "position": "DepartmentManager",
+            "birthDate": "01.01.1988",
+            "skill": [
+              "Communication",
+              "Java",
+              "Big Money"
+            ],
+            "managerId": "0"
+          },
+          {
+            "empId": "002",
+            "lastName": " Gorbatin ",
+            "firstName": " Sereja ",
+            "position": " Developer ",
+            "birthDate": "01.01.2001",
+            "skill": [
+              "Sleeps only 2 hours per day",
+              "Overtimes without concerns",
+              "Works for food"
+            ],
+            "managerId": "001"
+          }
+        ]
+      },
+      {
+        "name": "Accounting",
+        "depId": "2",
+        "employee": [
+          {
+            "empId": "003",
+            "lastName": " Pups ",
+            "firstName": " Loli ",
+            "position": " Secretary ",
+            "birthDate": "01.01.2002",
+
+            "skill": [
+              " Communication ",
+              " Beauty ",
+              " Tasty coffee and something else..."
+            ],
+            "managerId": "001"
+          },
+          {
+            "empId": "004",
+            "lastName": " Elena ",
+            "firstName": " Mihailovna ",
+            "birthDate": "01.01.1974",
+            "position": "Bugalter",
+            "skill": [
+              " Higher mathematics",
+              " Economy knowledge",
+              " Black bookkeeping"
+            ],
+            "managerId": "001"
+          },
+          {
+            "empId": "005",
+            "lastName": " Murin  ",
+            "firstName": " Vasile ",
+            "position": " Administrator",
+            "birthDate": "01.01.1990",
+
+            "skill": [
+              " Reshaet problemi",
+              " Reshaet big problemi",
+              " Poisk klientov "
+            ],
+            "managerId": "001"
+          }
+        ]
+      }
+    ]
+  }
+}

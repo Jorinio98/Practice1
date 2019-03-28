@@ -1,0 +1,62 @@
+
+
+                        <company>
+                         <department name="Development" depId="1">
+                                <employee empId="001">
+                                    <lastName> Ivan </lastName>
+                                    <firstName>Ivanovski </firstName>
+                                    <position>DepartmentManager</position>
+                                    <birthDate>01.01.1988</birthDate>
+                                    <skills>
+                                        <skill>Communication</skill>
+                                        <skill>Java</skill>
+                                        <skill>Big Money</skill>
+                                    </skills>
+                                    <managerId>0</managerId>
+                                </employee>
+                        </department>
+                        </company>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   System.out.println("Department id : " + eElement.getAttribute("depId"));
+                    System.out.println("Employe : "
+                            + eElement.getElementsByTagName("lastName").item(temp).getTextContent()
+                            + eElement.getElementsByTagName("firstName").item(temp).getTextContent());
+                    System.out.println("Birth Date :"
+                            + eElement.getElementsByTagName("birthDate").item(temp).getTextContent());
+                    System.out.println("managerId :"
+                            + eElement.getElementsByTagName("managerId").item(temp).getTextContent());
+                    System.out.println("position :"
+                            + eElement.getElementsByTagName("position").item(temp).getTextContent());

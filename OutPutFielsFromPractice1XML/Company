@@ -1,0 +1,72 @@
+
+<company>
+    <department name="Development" depId="1">
+        <employee empId="001">
+            <lastName> Ivan </lastName>
+            <firstName>Ivanovski </firstName>
+            <position>DepartmentManager</position>
+            <birthDate>01.01.1988</birthDate>
+            <skills>
+                <skill>Communication</skill>
+                <skill>Java</skill>
+                <skill>Big Money</skill>
+            </skills>
+            <managerId>0</managerId>
+        </employee>
+
+        <employee empId="002">
+            <lastName> Gorbatin </lastName>
+            <firstName> Sereja </firstName>
+            <position> Developer </position>
+            <birthDate>01.01.2001</birthDate>
+            <skills>
+                <skill>Sleeps only 2 hours per day</skill>
+                <skill>Overtimes without concerns</skill>
+                <skill>Works for food</skill>
+            </skills>
+            <managerId>001</managerId>
+        </employee>
+
+    </department>
+
+    <department name="Accounting" depId="2">
+        <employee empId="003">
+            <lastName> Pups </lastName>
+            <firstName> Loli </firstName>
+            <position> Secretary </position>
+            <birthDate>01.01.2002</birthDate>
+            <skills>
+                <skill> Communication </skill>
+                <skill> Beauty </skill>
+                <skill> Tasty coffee and something else...</skill>
+            </skills>
+            <managerId>001</managerId>
+        </employee>
+        <employee empId="004">
+            <lastName> Elena </lastName>
+            <firstName> Mihailovna </firstName>
+            <birthDate>01.01.1974</birthDate>
+            <position>Bugalter</position>
+            <skills>
+                <skill> Higher mathematics</skill>
+                <skill> Economy knowledge</skill>
+                <skill> Black bookkeeping</skill>
+            </skills>
+            <managerId>001</managerId>
+        </employee>
+        <employee empId="005">
+        <lastName> Murin  </lastName>
+        <firstName> Vasile </firstName>
+            <position> Administrator</position>
+            <birthDate>01.01.1990</birthDate>
+
+        <skills>
+            <skill> Reshaet problemi</skill>
+            <skill> Reshaet big problemi</skill>
+            <skill> Poisk klientov </skill>
+        </skills>
+        <managerId>001</managerId>
+        </employee>>
+    </department>
+</company>
+
